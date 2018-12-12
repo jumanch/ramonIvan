@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+
+body {
+  background-color: hsl(145, 100%, 50%);
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 300%;
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 150%;
+}
+
+p.primero {
+  color: white;
+  font-family: serif;
+  font-style: oblique;
+}
+
+p.segundo {
+  color: hsl(36, 100%, 92%);
+  font-family: sans-serif;
+}
+
+p.tercero {
+  color: hsl(35, 100%, 50%);
+  font-family: monospace;
+  font-size: 200%;
+}
+
+p.cuarto {
+  color: hsl(345, 100%, 49%);
+  font-family: cursive;
+}
